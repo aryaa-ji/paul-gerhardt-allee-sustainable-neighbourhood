@@ -295,7 +295,7 @@ The energy vision uses the mix of old and new buildings in PGA as a strength. Th
 - **Solar energy:** during the site visits, rooftop solar panels were found on many buildings, showing that residents are already open to renewable energy.
 - **Older buildings:** in the Old Residential Area, some buildings lack proper insulation, have old windows and use inefficient heating or cooling. This leads to high energy use and less comfort for residents. Research by the Buildings Performance Institute Europe shows that renovations such as better insulation, new windows and improved ventilation can cut a building's energy use by up to 80%.
 
-![Rooftop solar panels on an older house in PGA](images/energy-rooftop-solar.jpg)
+<img src="images/energy-rooftop-solar.jpg" alt="Rooftop solar panels on an older house in PGA" width="360">
 
 *Rooftop solar panels on an older house in PGA (site photo)*
 
@@ -349,8 +349,4 @@ The proposals were compared to see how they affect each other.
 
 ## Team
 
-This project is a group work by:
-
-Graham Badebye Ndiko, Shijil Adikkool, Arya Aji, Akshay Maru Veettil, Maike Schütz, Paulo Siqueira, Mariya Vettussery Thadevoos, Krishna Vinod
-
-Supervisor: Doris Bechtel, Chair of Energy Efficient and Sustainable Design and Building, TUM
+This project is a group work by a team of 8 students at the Technical University of Munich (TUM).
